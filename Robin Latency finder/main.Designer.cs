@@ -40,8 +40,7 @@
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
-            this.lb_voidRun = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
+            this.lb_license = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // cb_deviceList
@@ -117,11 +116,11 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("넥슨Lv1고딕", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.label4.Location = new System.Drawing.Point(421, 311);
+            this.label4.Location = new System.Drawing.Point(443, 311);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(190, 13);
+            this.label4.Size = new System.Drawing.Size(176, 13);
             this.label4.TabIndex = 7;
-            this.label4.Text = "Copyright (c) 2024 선동과 날조 팀";
+            this.label4.Text = "Copyright (c) 2024 선동과 날조";
             // 
             // label5
             // 
@@ -153,34 +152,24 @@
             this.label7.TabIndex = 10;
             this.label7.Text = "3. 15번 반복한다";
             // 
-            // lb_voidRun
+            // lb_license
             // 
-            this.lb_voidRun.AutoSize = true;
-            this.lb_voidRun.Location = new System.Drawing.Point(226, 295);
-            this.lb_voidRun.Name = "lb_voidRun";
-            this.lb_voidRun.Size = new System.Drawing.Size(38, 12);
-            this.lb_voidRun.TabIndex = 11;
-            this.lb_voidRun.Text = "label8";
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("넥슨Lv1고딕", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.label8.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.label8.Location = new System.Drawing.Point(617, 311);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(49, 13);
-            this.label8.TabIndex = 12;
-            this.label8.Text = "License";
-            this.label8.Click += new System.EventHandler(this.label8_Click);
+            this.lb_license.AutoSize = true;
+            this.lb_license.Font = new System.Drawing.Font("넥슨Lv1고딕", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.lb_license.ForeColor = System.Drawing.SystemColors.HotTrack;
+            this.lb_license.Location = new System.Drawing.Point(617, 311);
+            this.lb_license.Name = "lb_license";
+            this.lb_license.Size = new System.Drawing.Size(49, 13);
+            this.lb_license.TabIndex = 12;
+            this.lb_license.Text = "License";
+            this.lb_license.Click += new System.EventHandler(this.lb_license_Click);
             // 
             // main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(678, 333);
-            this.Controls.Add(this.label8);
-            this.Controls.Add(this.lb_voidRun);
+            this.Controls.Add(this.lb_license);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
@@ -216,8 +205,7 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.Label lb_voidRun;
-        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label lb_license;
     }
 }
 

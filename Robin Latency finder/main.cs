@@ -66,14 +66,13 @@ namespace Robin_Latency_finder
 
         private async void bt_runTest_Click(object sender, EventArgs e)
         {
-            for (int i = 0; i < 16; i++)
-            {
+            for (int i = 0; i < 16; i++) { 
                 runTest();
                 inputStatus = false;
                 await Task.Delay(1000);
-                if (stopwatch.ElapsedMilliseconds > 990)
+                if (stopwatch.ElapsedMilliseconds > 980)
                 {
-                    waitInput();
+                    missed();
                 }
             }
             seungsoo = seungsoo / 15;
@@ -96,7 +95,7 @@ namespace Robin_Latency_finder
 
         private void waitInput ()
         {
-            tester.Start();
+            //tester.Start();
             stopwatch.Stop();
             
             Beep = new SignalGenerator()
@@ -106,15 +105,35 @@ namespace Robin_Latency_finder
                 Type = SignalGeneratorType.Sin
             }.Take(TimeSpan.FromMilliseconds(50));
 
-            seungsoo = seungsoo + stopwatch.ElapsedMilliseconds;
-            lb_nowDelay.Text = stopwatch.ElapsedMilliseconds + "ms";
+            if (stopwatch.ElapsedMilliseconds > 800)
+            {
+                lb_nowDelay.Text = "Too Slow!";
+            }
+            else
+            {
+                seungsoo = seungsoo + stopwatch.ElapsedMilliseconds;
+                lb_nowDelay.Text = stopwatch.ElapsedMilliseconds + "ms";
+            }
 
             stopwatch.Reset();
-            tester.Stop();
+            //tester.Stop();
             //lb_voidRun.Text = tester.ElapsedMilliseconds.ToString();
         }
 
-        private void label8_Click(object sender, EventArgs e)
+        private void missed()
+        {
+            stopwatch.Stop();
+            Beep = new SignalGenerator()
+            {
+                Gain = 1,
+                Frequency = 440,
+                Type = SignalGeneratorType.Sin
+            }.Take(TimeSpan.FromMilliseconds(50));
+            stopwatch.Reset();
+            lb_nowDelay.Text = "missed!";
+        }
+
+        private void lb_license_Click(object sender, EventArgs e)
         {
             license license = new license();
             license.Owner = this;

@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // 제어됩니다. 어셈블리와 관련된 정보를 수정하려면
 // 이러한 특성 값을 변경하세요.
 [assembly: AssemblyTitle("Robin Latency finder")]
-[assembly: AssemblyDescription("네.")]
+[assembly: AssemblyDescription("디맥을 하다 빡친 정승수가 간편하게 레이턴시 값을 찾을 수 있도록 만들어진 프로그램")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Robin Latency finder")]
-[assembly: AssemblyCopyright("Copyright © 2024. 선동과 날조 팀")]
+[assembly: AssemblyCopyright("Copyright © 2024. 선동과 날조")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -33,4 +33,4 @@ using System.Runtime.InteropServices;
 // 기본값으로 할 수 있습니다.
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("0.1")]
+[assembly: AssemblyFileVersion("0.43.0")]

@@ -139,14 +139,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Robin Latency finder.exe" size="899584">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Robin Latency finder.exe" size="899072">
       <assemblyIdentity name="Robin Latency finder" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>is/eGW5gE3zoyHMH94k2DzRkWgqI3e+YxTapOoPC5GQ=</dsig:DigestValue>
+        <dsig:DigestValue>Dn2vwXPF8MYsrUD5glIwY8jxSyVXRoBScmaIsqMOkws=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
