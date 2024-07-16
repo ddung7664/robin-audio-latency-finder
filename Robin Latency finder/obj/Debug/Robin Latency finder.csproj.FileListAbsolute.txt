@@ -1,0 +1,73 @@
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\obj\Debug\Robin Latency finder.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\obj\Debug\Robin_Latency_finder.main.resources
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\obj\Debug\Robin_Latency_finder.Properties.Resources.resources
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\obj\Debug\Robin Latency finder.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\obj\Debug\Robin Latency finder.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\Robin Latency finder.exe.config
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\Robin Latency finder.exe.manifest
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\Robin Latency finder.application
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\Robin Latency finder.exe
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\Robin Latency finder.pdb
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\NAudio.Asio.dll
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\NAudio.Core.dll
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\NAudio.dll
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\NAudio.Midi.dll
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\NAudio.Wasapi.dll
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\NAudio.WinForms.dll
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\NAudio.WinMM.dll
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\System.Security.AccessControl.dll
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\NAudio.xml
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\NAudio.Asio.xml
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\NAudio.Core.xml
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\NAudio.Midi.xml
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\NAudio.Wasapi.xml
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\NAudio.WinForms.xml
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\NAudio.WinMM.xml
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\System.Security.AccessControl.xml
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\obj\Debug\Robin Latency finder.TrustInfo.xml
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\obj\Debug\Robin Latency finder.exe.manifest
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\obj\Debug\Robin Latency finder.application
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\obj\Debug\Robin La.50292641.Up2Date
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\obj\Debug\Robin Latency finder.exe
+C:\Users\user\source\repos\Robin Latency finder\Robin Latency finder\obj\Debug\Robin Latency finder.pdb
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\obj\Debug\Robin Latency finder.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\obj\Debug\Robin_Latency_finder.main.resources
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\obj\Debug\Robin_Latency_finder.Properties.Resources.resources
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\obj\Debug\Robin Latency finder.csproj.GenerateResource.cache
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\obj\Debug\Robin Latency finder.exe
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\obj\Debug\Robin Latency finder.pdb
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\Robin Latency finder.exe.config
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\Robin Latency finder.exe.manifest
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\Robin Latency finder.application
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\Robin Latency finder.exe
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\Robin Latency finder.pdb
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\NAudio.Asio.dll
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\NAudio.Core.dll
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\NAudio.dll
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\NAudio.Midi.dll
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\NAudio.Wasapi.dll
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\NAudio.WinForms.dll
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\NAudio.WinMM.dll
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\System.Security.AccessControl.dll
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\NAudio.xml
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\NAudio.Asio.xml
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\NAudio.Core.xml
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\NAudio.Midi.xml
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\NAudio.Wasapi.xml
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\NAudio.WinForms.xml
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\NAudio.WinMM.xml
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\System.Security.AccessControl.xml
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\obj\Debug\Robin Latency finder.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\obj\Debug\Robin Latency finder.TrustInfo.xml
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\obj\Debug\Robin Latency finder.exe.manifest
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\obj\Debug\Robin Latency finder.application
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\obj\Debug\Robin La.50292641.Up2Date
+C:\Users\user\Downloads\robin-audio-latency-finder-master\Robin Latency finder\obj\Debug\Robin_Latency_finder.license.resources
