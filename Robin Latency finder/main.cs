@@ -139,6 +139,11 @@ namespace Robin_Latency_finder
             license.Owner = this;
             license.Show();
         }
+
+        private void cb_deviceList_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            Device = AudioDeviceEnumerator.EnumerateAudioEndPoints(DataFlow.Render, DeviceState.Active).First(o => o.FriendlyName == cb_deviceList.Text);
+        }
     }
 }
 

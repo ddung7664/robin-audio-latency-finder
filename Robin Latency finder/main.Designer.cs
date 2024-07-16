@@ -50,6 +50,7 @@
             this.cb_deviceList.Name = "cb_deviceList";
             this.cb_deviceList.Size = new System.Drawing.Size(498, 20);
             this.cb_deviceList.TabIndex = 0;
+            this.cb_deviceList.SelectedIndexChanged += new System.EventHandler(this.cb_deviceList_SelectedIndexChanged);
             // 
             // lb_latency
             // 
