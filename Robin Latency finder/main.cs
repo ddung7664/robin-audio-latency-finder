@@ -30,7 +30,6 @@ namespace Robin_Latency_finder
             }
         }
         private Stopwatch stopwatch = new Stopwatch();
-        private Stopwatch tester = new Stopwatch();
 
         private ISampleProvider Beep = new SignalGenerator()
         {
@@ -95,7 +94,6 @@ namespace Robin_Latency_finder
 
         private void waitInput ()
         {
-            //tester.Start();
             stopwatch.Stop();
             
             Beep = new SignalGenerator()
@@ -111,13 +109,11 @@ namespace Robin_Latency_finder
             }
             else
             {
-                seungsoo = seungsoo + stopwatch.ElapsedMilliseconds;
-                lb_nowDelay.Text = stopwatch.ElapsedMilliseconds + "ms";
+                seungsoo = seungsoo + stopwatch.ElapsedMilliseconds - 25;
+                lb_nowDelay.Text = stopwatch.ElapsedMilliseconds - 25 + "ms";
             }
 
             stopwatch.Reset();
-            //tester.Stop();
-            //lb_voidRun.Text = tester.ElapsedMilliseconds.ToString();
         }
 
         private void missed()

@@ -56,7 +56,7 @@
             // 
             this.lb_latency.AutoSize = true;
             this.lb_latency.Font = new System.Drawing.Font("넥슨Lv1고딕 Bold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.lb_latency.Location = new System.Drawing.Point(555, 255);
+            this.lb_latency.Location = new System.Drawing.Point(546, 255);
             this.lb_latency.Name = "lb_latency";
             this.lb_latency.Size = new System.Drawing.Size(64, 22);
             this.lb_latency.TabIndex = 1;
@@ -77,7 +77,7 @@
             // 
             this.lb_nowDelay.AutoSize = true;
             this.lb_nowDelay.Font = new System.Drawing.Font("넥슨Lv1고딕 Bold", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.lb_nowDelay.Location = new System.Drawing.Point(555, 220);
+            this.lb_nowDelay.Location = new System.Drawing.Point(546, 220);
             this.lb_nowDelay.Name = "lb_nowDelay";
             this.lb_nowDelay.Size = new System.Drawing.Size(64, 22);
             this.lb_nowDelay.TabIndex = 3;
@@ -185,7 +185,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.KeyPreview = true;
             this.Name = "main";
-            this.Text = "Robin Audio Latency finder 0.43.0 by 정승수";
+            this.Text = "Robin Audio Latency finder 0.43.2 by 정승수";
             this.Load += new System.EventHandler(this.main_Load);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.MainScreen_KeyDown);
             this.ResumeLayout(false);
